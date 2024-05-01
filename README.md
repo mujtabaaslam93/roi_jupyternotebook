@@ -12,20 +12,21 @@ Islamabad has better ROI as compare to Rawalpindi for similar investment.
 
 ### High ROI First
 
-Total Duration (Years): 7
-Monthly Input: 200000
-Total Properties Bought: 3
-Total Investment: PKR 14,420,000.00
-Total Rental Income: PKR 154,000.00
-Average ROI: 11.64%
+* Total Duration (Years): 7
+* Monthly Input: 200000
+* Total Properties Bought: 3
+* Total Investment: PKR 14,420,000.00
+* Total Rental Income: PKR 154,000.00
+* Average ROI: 11.64%
 
 ### Low Investment First
-Total Duration (Years): 7
-Monthly Input: 200000
-Total Properties Bought: 7
-Total Investment: PKR 52,120,000.00
-Total Rental Income: PKR 531,832.00
-Average ROI: 11.94%
+
+* Total Duration (Years): 7
+* Monthly Input: 200000
+* Total Properties Bought: 7
+* Total Investment: PKR 52,120,000.00
+* Total Rental Income: PKR 531,832.00
+* Average ROI: 11.94%
 
 This trend changes with number of years and monthly input, if we increase either High ROI is more favorable but with low values starting small might be a good idea.
 
